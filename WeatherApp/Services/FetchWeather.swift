@@ -12,8 +12,8 @@ struct OpenWeatherAPI {
     static let scheme = "https"
     static let host = "api.openweathermap.org"
     static let path = "/data/2.5"
-    //static let key = "da2798e7e8c96956caff9ac80cce3ebe"
-    static let key = "c0d037bbf0a21990121457947f5785ef"
+    static let key = "da2798e7e8c96956caff9ac80cce3ebe"
+   // static let key = "c0d037bbf0a21990121457947f5785ef"
 }
 
 class ApiCall{
